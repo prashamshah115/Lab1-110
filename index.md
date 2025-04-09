@@ -2,7 +2,7 @@
 
 [Photo](IMG_1776.png)
 
-*"A photo of me."* 
+> *"A photo of me."* 
 
 - [PRASHAM SHAH'S USER PAGE :-](#prasham-shahs-user-page--)
   - [NAVIGATION](#navigation)

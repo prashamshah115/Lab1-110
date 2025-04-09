@@ -1,6 +1,6 @@
 # PRASHAM SHAH'S USER PAGE :-
 
-![Photo](IMG_1776.png)
+[Photo](IMG_1776.png)
 
 *"A photo of me."* 
 
@@ -43,7 +43,7 @@ I am passionate about the intersection of tech and business, and always seek to 
   ## Useful Links
 
 
-[Ucsd cse](https://www.cseucsd.com)
+[Ucsd cse](https://www.cseucsd.edu)
 
 
 

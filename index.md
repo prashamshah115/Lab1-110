@@ -1,23 +1,19 @@
 # PRASHAM SHAH'S USER PAGE :-
 
+[Photo](screenshots/IMG_1776.png)
 
-
-
-*"A photo of me."*
-
-## NAVIGATION 
+*"A photo of me."* 
 
 - [PRASHAM SHAH'S USER PAGE :-](#prasham-shahs-user-page--)
   - [NAVIGATION](#navigation)
   - [About Me](#about-me)
   - [My Hobbies and Extracurriculars](#my-hobbies-and-extracurriculars)
-  - [Cool Articles](#cool-articles)
   - [Projects I am working on](#projects-i-am-working-on)
   - [Useful Links](#useful-links)
-  - [Screenshots \& Repo Structure](#screenshots--repo-structure)
-    - [](#)
 
 ---
+
+## NAVIGATION
 
 ## About Me
 
@@ -38,9 +34,6 @@ I am passionate about the intersection of tech and business, and always seek to 
  languages_cool_with = ["Python", "C++", "Java", "Javascript"]
  ```
 
-  ## Cool Articles
-
-
   ## Projects I am working on
 
   1. AI Jewelry Assistant
@@ -49,10 +42,11 @@ I am passionate about the intersection of tech and business, and always seek to 
 
   ## Useful Links
 
-  ## Screenshots & Repo Structure
+  <!-- Link to UCSD CSE -->
+[Ucsd cse](https://www.cseucsd.com)
 
 
-###
+
 
 
 

@@ -35,10 +35,9 @@ I am passionate about the intersection of tech and business, and always seek to 
  ```
 
   ## Projects I am working on
-
-  1. AI Jewelry Assistant
-  2. Retail App
-  3. CSE 110 whatever we do 
+- [x] AI Jewelry Assistant
+- [ ] Retail App
+- [ ] CSE 110 whatever we do 
 
   ## Useful Links
 
